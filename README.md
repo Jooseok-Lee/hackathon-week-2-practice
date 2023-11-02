@@ -1,2 +1,2 @@
-# hackathon-week-2-practice
+# ESIIL Hackathon Week 2 Practice Repository
 A practice repo for learning how to push with GitHub
